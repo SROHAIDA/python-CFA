@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#SalinAturcara untuk penambahbaikan aturcara utama
 import random
 
 # Senarai perkataan untuk permainan
